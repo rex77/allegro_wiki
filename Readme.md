@@ -1,10 +1,6 @@
 # [알레그로 한국 위키](https://github.com/liballeg/allegro_wiki/wiki)
 
-This is the source for Allegro's GitHub-hosted wiki. 수정하려면, [click here or the Wiki tab above](https://github.com/liballeg/allegro_wiki/wiki).
+본 위키는 깃허브에 호스팅 된 알레그로 영문 위키의 한국어 버전입니다. 수정하려면, [여기를 클릭하십시오](https://github.com/rex77/allegro_wiki/wiki).
 
-Anyone can edit the wiki, but you'll need push access to upload images etc. If
-you'd like access, request to join the [Friends of the
-wiki](https://github.com/orgs/liballeg/teams/friends-of-the-wiki) team or
-contact Allegro developers via the [mailing
-list](https://liballeg.org/maillist.html) or
-[IRC](https://liballeg.org/irc.html).
+누구나 번역에 참여할 수 있습니다.
+문의사항이 있을 시 anyehwon77@gmail.com로 연락주십시오.
